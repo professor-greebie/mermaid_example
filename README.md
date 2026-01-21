@@ -36,7 +36,7 @@ Bio-conversion,Solid,280.322
 Bio-conversion,Gas,81.144
 Biofuel imports,Liquid,35
 Biomass imports,Solid,35
-Coal imports,Coal,11.606
+Bitumen imports,Coal,11.606
 Coal reserves,Coal,63.965
 Coal,Solid,75.571
 District heating,Industry,10.639
